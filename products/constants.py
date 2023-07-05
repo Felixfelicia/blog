@@ -1,3 +1,0 @@
-PAGINATION_LIMIT = 1
-
-
